@@ -3,6 +3,7 @@
 # Setup
   - Replace **ID_HERE** with your Discord Webhook ID
   - Replace **TOKEN_HERE** with your Discord Webhook Token
+  - Right click **.replit** and click **Delete**
   - To run the webhook spammer after finishing the setup, simply click **RUN**
 
 # Legality and Punishment
